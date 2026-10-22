@@ -1,0 +1,6 @@
+auction_devs/*.txt
+*/*.out
+*/*.csv
+*/bin/
+*/build/
+*/data_auction.txt

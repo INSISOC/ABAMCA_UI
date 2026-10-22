@@ -1,0 +1,19 @@
+'Maximum theoretical social welfare
+150
+'Customers Reservation price
+40;40;50;60;50
+'Customers Initial Purchase Price
+20;25;30;40;25
+'Customers Purchase Price Step
+5
+'Producers Production Cost
+20;30;40;50
+'Producers First Ask Price
+30;50;60;70
+'Producers Ask Price Step
+10
+'Items Combination
+0;1;1;1;0
+1;0;0;1;0
+1;1;0;1;0
+0;0;1;0;1

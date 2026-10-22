@@ -1,0 +1,10 @@
+./bin/client B,1,1,75,96,
+./bin/client B,2,2,61,78,
+./bin/client B,3,3,101,128,
+./bin/client B,4,4,62,77,
+./bin/client B,5,5,103,132,
+
+./bin/client S,1,[4],79,61,
+./bin/client S,2,[3],139,118,
+./bin/client S,3,[3],140,116,
+./bin/client S,4,[2],80,63,
