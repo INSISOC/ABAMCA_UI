@@ -8,7 +8,7 @@ In the context of additive manufacturing, the ABAMCA project aims to develop and
 The main deliverable will be a pilot marketplace platform where customer companies can request the production of specific subcomponents, while manufacturers can bid on combinations of orders they wish to fulfill, optimizing the utilization of their additive manufacturing machines. The platform’s effectiveness will be validated through application to various case studies involving Spanish additive manufacturing companies.
 
 ## Dependencies
-This project assumes that you have **<a href="https://github.com/SimulationEverywhere/cadmium" target="_blank">Cadmium (DEVS IO version)</a>**  installed in your home directory (i.e., one folder up than the ABAMCA project)
+This project assumes that you have <a href="https://github.com/SimulationEverywhere/cadmium" target="_blank">**Cadmium (DEVS IO version)**</a> installed in your home directory (i.e., one folder up than the ABAMCA project)
 
 ## Build and Execute
 To build this project, run:
