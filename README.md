@@ -29,5 +29,5 @@ For questions or academic collaboration, please contact: david.poza@uva.es
 - **NonCommercial** — You may not use the material for commercial purposes.
 
 ## Other repositories linked to this project
-- **[ABAMCA](https://github.com)**
-- **[AMICDALib](https://github.com)**
+- **[ABAMCA](https://github.com/INSISOC/ABAMCA_UI)**
+- **[AMICDALib](https://github.com/INSISOC/AMICDALib)**
