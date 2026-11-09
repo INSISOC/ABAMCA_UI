@@ -27,3 +27,7 @@ For questions or academic collaboration, please contact: david.poza@uva.es
 ## Licence
 - **Attribution** — You must give appropriate credit.
 - **NonCommercial** — You may not use the material for commercial purposes.
+
+## Other repositories linked to this project
+- **[ABAMCA](https://github.com)**
+- **[AMICDALib](https://github.com)**
