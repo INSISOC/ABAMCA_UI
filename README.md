@@ -1,7 +1,7 @@
 # ABAMCA PROJECT
 
 ## Introduction
-The objective of the ABAMCA project is to apply combinatorial auctions and agent-based modeling methodologies to develop a platform that reduces the current imbalance between supply and demand in the additive manufacturing market for subcomponents.
+The objective of the **ABAMCA project** is to apply combinatorial auctions and agent-based modeling methodologies to develop a platform that reduces the current imbalance between supply and demand in the additive manufacturing market for subcomponents.
 
 In the context of additive manufacturing, the ABAMCA project aims to develop and explore innovative methodologies for allocating industrial customers—companies that subcontract the production of subcomponents—to suppliers, i.e., manufacturers qualified to produce those subcomponents using 3D printing. The project focuses on leveraging combinatorial auction techniques and agent-based modeling to address the current imbalance between supply and demand in the additive manufacturing market for subcomponent production.
 
